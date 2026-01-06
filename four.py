@@ -1,0 +1,4 @@
+print("hello world")
+int("20")
+float("1.5")
+compley("1p")
